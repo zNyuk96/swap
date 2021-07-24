@@ -1,0 +1,24 @@
+.border2{
+    border: 2px solid black;
+}
+.signup-form{
+    position:absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2% 4%;
+    padding:20px;
+    border-radius: 10px;
+}
+.info-wrapper{
+    display: flex;
+    flex-direction: column;
+    width:250px;
+    height:120px;
+    justify-content: space-around;
+    
+}
+.submit{
+    width:200px;
+}
